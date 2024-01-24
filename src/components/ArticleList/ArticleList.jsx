@@ -1,5 +1,5 @@
 import data from "../../../articles.json";
-import Article from "../../Article/Article";
+import Article from "../Article/Article";
 
 const ArticleList = () => {
   return (
